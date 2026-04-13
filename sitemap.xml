@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- ── PÁGINA PRINCIPAL ─────────────────────────────────────── -->
+  <url>
+    <loc>https://sites.google.com/colaborador.huspy.io/ramon-j-gimenez/ramon-j-gimenez</loc>
+    <lastmod>2025-04-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- ── TERRENOS ──────────────────────────────────────────────── -->
+  <url>
+    <loc>https://sites.google.com/colaborador.huspy.io/ramon-j-gimenez/terrenos</loc>
+    <lastmod>2025-04-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://sites.google.com/colaborador.huspy.io/ramon-j-gimenez/terrenos/rocafort</loc>
+    <lastmod>2025-04-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://sites.google.com/colaborador.huspy.io/ramon-j-gimenez/terrenos/albalat</loc>
+    <lastmod>2025-04-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- ── BARRIOS ───────────────────────────────────────────────── -->
+  <url>
+    <loc>https://sites.google.com/colaborador.huspy.io/ramon-j-gimenez/barrios</loc>
+    <lastmod>2025-04-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sites.google.com/colaborador.huspy.io/ramon-j-gimenez/barrios/campolivar</loc>
+    <lastmod>2025-04-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sites.google.com/colaborador.huspy.io/ramon-j-gimenez/barrios/godella</loc>
+    <lastmod>2025-04-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sites.google.com/colaborador.huspy.io/ramon-j-gimenez/barrios/la-virgen-de-la-vega</loc>
+    <lastmod>2025-04-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sites.google.com/colaborador.huspy.io/ramon-j-gimenez/barrios/el-mejor-barrio-de-madrid-para-vivir-Arguelles</loc>
+    <lastmod>2025-04-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- ── VENDER EN VALENCIA ────────────────────────────────────── -->
+  <url>
+    <loc>https://sites.google.com/colaborador.huspy.io/ramon-j-gimenez/vender-en-valencia</loc>
+    <lastmod>2025-04-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- ── LA PROPTECH HUSPY ─────────────────────────────────────── -->
+  <url>
+    <loc>https://sites.google.com/colaborador.huspy.io/ramon-j-gimenez/la-proptech-huspy</loc>
+    <lastmod>2025-04-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- ── LOGROS ────────────────────────────────────────────────── -->
+  <url>
+    <loc>https://sites.google.com/colaborador.huspy.io/ramon-j-gimenez/logros</loc>
+    <lastmod>2025-04-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- ── DEMANDAS ──────────────────────────────────────────────── -->
+  <url>
+    <loc>https://sites.google.com/colaborador.huspy.io/ramon-j-gimenez/demandas</loc>
+    <lastmod>2025-04-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- ── SATISFACCIÓN ──────────────────────────────────────────── -->
+  <url>
+    <loc>https://sites.google.com/colaborador.huspy.io/ramon-j-gimenez/satisfaccion</loc>
+    <lastmod>2025-04-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- ── CONSEJOS ──────────────────────────────────────────────── -->
+  <url>
+    <loc>https://sites.google.com/colaborador.huspy.io/ramon-j-gimenez/consejos</loc>
+    <lastmod>2025-04-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sites.google.com/colaborador.huspy.io/ramon-j-gimenez/consejos/vender-por-tu-cuenta</loc>
+    <lastmod>2025-04-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sites.google.com/colaborador.huspy.io/ramon-j-gimenez/consejos/quieres-visitas-o-quieres-el-mejor-precio-no-es-lo-mismo</loc>
+    <lastmod>2025-04-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sites.google.com/colaborador.huspy.io/ramon-j-gimenez/consejos/elige-la-mejor-inmobiliaria</loc>
+    <lastmod>2025-04-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sites.google.com/colaborador.huspy.io/ramon-j-gimenez/consejos/como-elegir-bien-la-inmobiliaria</loc>
+    <lastmod>2025-04-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sites.google.com/colaborador.huspy.io/ramon-j-gimenez/consejos/conseguir-la-mejor-hipoteca</loc>
+    <lastmod>2025-04-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sites.google.com/colaborador.huspy.io/ramon-j-gimenez/consejos/como-acceder-a-tu-primera-vivienda</loc>
+    <lastmod>2025-04-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sites.google.com/colaborador.huspy.io/ramon-j-gimenez/consejos/si-quieres-vender-un-inmueble</loc>
+    <lastmod>2025-04-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sites.google.com/colaborador.huspy.io/ramon-j-gimenez/consejos/Sacale-el-maximo-beneficio</loc>
+    <lastmod>2025-04-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sites.google.com/colaborador.huspy.io/ramon-j-gimenez/consejos/inmobiliarias-baratas</loc>
+    <lastmod>2025-04-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sites.google.com/colaborador.huspy.io/ramon-j-gimenez/consejos/credito-puente</loc>
+    <lastmod>2025-04-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+</urlset>
